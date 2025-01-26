@@ -1,1 +1,1 @@
-Content Recommender System Capstone Project
+Contents of my coursework during my Btech.
